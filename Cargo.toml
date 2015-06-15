@@ -1,0 +1,14 @@
+[package]
+name = "safexrust"
+version = "0.0.2"
+authors = ["dallyshalla@gmail.com"]
+description = "p2p messaging library. Automatically broadcast trade information."
+repository = "https://github.com/dallyshalla/safexrust"
+readme = "README.md"
+license = "GPL-3.0"
+homepage = "http://maidsafe.net"
+
+[dependencies]
+rand = "*"
+rustc-serialize = "*"
+time = "*"
